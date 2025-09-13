@@ -1,0 +1,16 @@
+table{
+    border-collapse:collapse;
+}
+th{
+    background: #FFAB19;
+}
+th,td{
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+}
+tr:nth-child(2n){
+    background:#f6f6f6;
+}
+tr:hover{
+   background: #ececec;
+}
